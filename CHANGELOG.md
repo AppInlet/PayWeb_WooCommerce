@@ -1,5 +1,11 @@
 # Changelog
 
+## [[1.7.1]](https://github.com/Payfast/woocommerce-gateway/releases/tag/v1.7.1)
+
+### Fixed
+
+- Fixed an issue with the Composer autoloader that could prevent the plugin from loading correctly on some setups.
+
 ## [[1.7.0]](https://github.com/Payfast/woocommerce-gateway/releases/tag/v1.7.0)
 
 ### Added
